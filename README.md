@@ -37,19 +37,24 @@ print(infinity_norm)
 ### 1-Norm of a Matrix
 <br>
 <br>
-<br>![Screenshot 2024-11-28 185514](https://github.com/user-attachments/assets/9bef925f-57a3-4c43-a167-3ec1b729d494)
+<br>
 
+![Screenshot 2024-11-28 185514](https://github.com/user-attachments/assets/ecf49b3b-0103-4ded-8435-a0b62689f1e0)
 
 ### 2-Norm of a Matrix
 <br>
 <br>
-<br>![Screenshot 2024-11-28 185527](https://github.com/user-attachments/assets/61f9eeb3-d95d-434c-9822-b03411e9f0ee)
+<br>
+
+![Screenshot 2024-11-28 185527](https://github.com/user-attachments/assets/d009b8a5-f6ce-48f7-ae0d-4bae54c8687d)
 
 
 ### Infinity Norm of a Matrix
 <br>
 <br>
-<br>![Screenshot 2024-11-28 185539](https://github.com/user-attachments/assets/1b5898ff-3611-41af-af77-6d6f05e496bb)
+<br>
+
+![Screenshot 2024-11-28 185539](https://github.com/user-attachments/assets/cc372b94-4f54-489b-b5b1-94b7416ce85f)
 
 
 ## Result
